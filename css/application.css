@@ -1,3 +1,13 @@
+@font-face
+{
+  font-family: Arvo;
+  src: url("fonts/Arvo.ttf");
+}
+@font-face
+{
+  font-family: OpenS;
+  src: url("fonts/OpenSans.ttf");
+
 body 
 {
   background-color: light gray;
@@ -7,14 +17,14 @@ body
 }
 h1
 {
-  font-family: hre="css/fonts/Arvo.ttf";
+  font-family: Arvo;
   color: #0077b6;
   text-align: center;
   font-size: 2.5;
 }
 h2
 {
-  font-family: hre="css/fonts/OpenSans.ttf"
+  font-family: OpenS;
   color: #000;
   margin-top: 20px;
   font-size: 2;
