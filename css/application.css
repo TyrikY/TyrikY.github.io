@@ -7,14 +7,14 @@ body
 }
 h1
 {
-  font-family: hre="fonts/Arvo.ttf";
+  font-family: hre="css/fonts/Arvo.ttf";
   color: #0077b6;
   text-align: center;
   font-size: 2.5;
 }
 h2
 {
-  font-family: hre="fonts/OpenSans.ttf"
+  font-family: hre="css/fonts/OpenSans.ttf"
   color: #000;
   margin-top: 20px;
   font-size: 2;
