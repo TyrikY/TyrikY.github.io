@@ -1,18 +1,20 @@
 body 
 {
-  background-color: #f4f4f4;
+  background-color: light gray;
   color: #333;
   margin: 0;
   padding: 20px;
 }
 h1
 {
+  font-family: hre="fonts/Arvo.ttf";
   color: #0077b6;
   text-align: center;
   font-size: 2.5;
 }
 h2
 {
+  font-family: hre="fonts/OpenSans.ttf"
   color: #000;
   margin-top: 20px;
   font-size: 2;
