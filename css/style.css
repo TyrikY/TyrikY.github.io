@@ -17,6 +17,7 @@ h1 {
   margin-top: 20px;
 }
 nav {
+  back-ground: #333;
   font-family: OpenS;
 }
 nav ul {
@@ -29,7 +30,13 @@ nav ul {
 nav li {
   margin: 20px;
 }
-
+nav a {
+  text-decoration: none;
+  color: white;
+}
+nav a:hover {
+  text-decoration: underline;
+}
 section {
   margin: 20px;
   padding: 20px;
