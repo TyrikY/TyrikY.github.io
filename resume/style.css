@@ -1,0 +1,62 @@
+@font-face {
+  font-family: Arvo;
+  src: url("fonts/Arvo.ttf");
+}
+@font-face {
+  font-family: OpenS;
+  src: url("fonts/OpenS.ttf");
+}
+body {
+  font-family: Arvo;
+  background-color: #f3f3f3;
+}
+img {
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  margin: 10px;
+  display: inline-block;
+  opacity: 0.9;
+}
+img:hover {
+  opacity: 1;
+}
+h1 {
+  font-family: Arvo;
+  text-align: center;
+  color: #2a9df4;
+  margin-top: 20px;
+}
+nav {
+  back-ground: #333;
+  font-family: OpenS;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  margin: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 4px 6px rgba(0, 0, 0, 0.1);
+}
+ul {
+  padding-left: 20px;
+}
+li {
+  line-height: 1.6;
+}
